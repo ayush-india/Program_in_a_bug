@@ -1,0 +1,3 @@
+/home/ayu/Code/random/NovaBug/CMakeFiles/edit_cache.dir
+/home/ayu/Code/random/NovaBug/CMakeFiles/rebuild_cache.dir
+/home/ayu/Code/random/NovaBug/CMakeFiles/NovaBug.dir
